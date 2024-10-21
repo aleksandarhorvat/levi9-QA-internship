@@ -5,3 +5,4 @@ Levi9 Internship in QA Testing
 - image - folder with products images
 - json - folder with products json files
 - text - folder with products descriptions
+- dsa
